@@ -1,0 +1,13 @@
+# pack-refs with: peeled fully-peeled 
+57d67c0626b4d1692d7a8d55bee3e4d5a64d55d1 refs/heads/master
+57d67c0626b4d1692d7a8d55bee3e4d5a64d55d1 refs/heads/upgrade-to-boot-2
+eafbd03dd54541c19091946a0fff82a59e1feaff refs/tags/1.4.1.RELEASE
+7f66fdb24391aa0ff4c0300fe6d8dd923a3a0675 refs/tags/1.4.2.RELEASE
+8fd0454e9e6937a7836f92eb79d031a8fb937416 refs/tags/1.4.3.RELEASE
+054e0b3f32e2a6924e6bb6a964c1530d576d7dd3 refs/tags/1.5.1.RELEASE
+57d67c0626b4d1692d7a8d55bee3e4d5a64d55d1 refs/tags/1.5.10.RELEASE
+e4122aa600c4d73ec0f6fe1b2e4d4f83573c9fbb refs/tags/1.5.2.RELEASE
+610bc202aab47eea0ab57ed7d1ad141672bfe495 refs/tags/1.5.5.RELEASE
+08e6c67de97775272f1bde277244b1141e4b15e0 refs/tags/1.5.9.RELEASE
+08e6c67de97775272f1bde277244b1141e4b15e0 refs/tags/edgware.release
+57d67c0626b4d1692d7a8d55bee3e4d5a64d55d1 refs/tags/edgware.sr2
