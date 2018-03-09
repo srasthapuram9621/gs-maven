@@ -4,7 +4,7 @@
 	<groupId>org.springframework</groupId>
 	<artifactId>gs-maven</artifactId>
 	<packaging>jar</packaging>
-	<version>2.0.12-SNAPSHOT</version>
+	<version>2.0.14-SNAPSHOT</version>
         <scm>
         <connection>scm:git:git@github.com:srasthapuram9621/gs-maven.git</connection>
         <developerConnection>scm:git:git@github.com:srasthapuram9621/gs-maven.git</developerConnection>
