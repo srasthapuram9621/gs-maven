@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.springframework</groupId>
 	<artifactId>gs-maven</artifactId>
 	<packaging>jar</packaging>
-	<version>2.0.2-SNAPSHOT</version>
+	<version>2.0.1-snapshot</version>
         <scm>
         <connection>scm:git:git@github.com:srasthapuram9621/gs-maven.git</connection>
         <developerConnection>scm:git:git@github.com:srasthapuram9621/gs-maven.git</developerConnection>
@@ -58,12 +59,12 @@
         <snapshotRepository>
                 <id>test</id>
                 <name>internal snapshots</name>
-                <url>http://127.0.0.1:8081/repository/LocalSnapshots/</url>
+                <url>http://localhost:8081/repository/LocalSnapshots/</url>
         </snapshotRepository>
         <repository>
                 <id>test</id>
                 <name>internal releases</name>
-                <url>http://127.0.0.1:8081/repository/Releases/</url>
+                <url>http://localhost:8081/repository/Releases/</url>
         </repository>
         </distributionManagement>
 </project>
